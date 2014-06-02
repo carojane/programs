@@ -34,5 +34,3 @@ while true
 		end
 	end
 end
-
-# repeat BYE loop 3 times?
